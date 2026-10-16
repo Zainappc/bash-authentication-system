@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 
 DOGRU_KULLANICI="zeynep"
